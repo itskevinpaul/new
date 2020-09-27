@@ -336,7 +336,8 @@ p.small.red {
 }
 .col-sm-12.col-xs-12.testy p.big-font {
     text-align: center;
-    font-weight: 800;
+
+    font-weight: 900;
 }
 .count{
     display: flex;
