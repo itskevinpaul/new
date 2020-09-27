@@ -38,8 +38,8 @@ h3{
 }
 
 h1 {
-    font-size: 75px;
-    line-height: 65px;
+    font-size: 80px;
+    line-height: 80px;
 }
 h2 {
     font-size: 34px;
@@ -336,7 +336,7 @@ p.small.red {
 }
 .col-sm-12.col-xs-12.testy p.big-font {
     text-align: center;
-    font-weight: 400;
+    font-weight: 800;
 }
 .count{
     display: flex;
@@ -603,6 +603,7 @@ section.full {
 .row.row-flex .col-md-6.col-sm-6.col-xs-12 {
     padding: 0;
     margin: 0;
+   
 }
 .content.colour-2.bg-img-2 {
     padding: 60px 70px;
@@ -638,6 +639,7 @@ section.udm.full-height .logo-imgs {
     float: right;
 }
 .text-block {
+    padding: 80px;
     left: 0;
     transform: translate(-84px, 117px);
 }
